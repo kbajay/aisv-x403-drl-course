@@ -1,0 +1,3 @@
+[submodule "molecular-dqn"]
+	path = molecular-dqn
+	url = https://github.com/WardLT/molecular-dqn.git
